@@ -36,6 +36,7 @@ Retrieves relevant text chunks
 Sends context + query to LLM
 
 Generates grounded answer
+
 🛠️ Tech Stack
 Language:
 Python
